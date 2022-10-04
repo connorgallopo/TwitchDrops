@@ -45,7 +45,7 @@
 * No need to watch the stream in a browser, fully uses twitch inner gql.
 * No need to care about who is online and when.
 * Saves your twitch session providing you autologin.
-* Can watch every Twitch Drop / Campaign available.
+* Can watch every Twitch Drop / Campasign available.
 * Automatically claims your Drops.
 * Switches automatically to other games or drops if drop is claimed/claimable or offline.
 * Send Discord Webhooks to your server.
